@@ -1,0 +1,17 @@
+body {
+	background-color: transparent;
+	font-family: "Trebuchet MS", sans-serif;
+	font-size: 18pt;
+    font-weight: bold;
+    text-align: center;
+	color: white;
+    margin: 12pt;
+}
+p {
+    text-align: left;
+    font-weight: normal;
+    font-size: 14pt;
+}
+#content:before {
+    content: "Cómo responder"
+}
